@@ -1,24 +1,13 @@
-# README
+<!--
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Como usuario, puedo ver todas mis listas de películas
 
-Things you may want to cover:
+Como usuario, puedo crear una lista de películas
 
-* Ruby version
+Como usuario, puedo ver los detalles de una lista de películas
 
-* System dependencies
+Como usuario, puedo marcar (bookmark) una película dentro de una lista de películas
 
-* Configuration
+Como usuario, puedo destruir un bookmark
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+-->
